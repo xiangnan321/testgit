@@ -1,2 +1,3 @@
 hello
-this is a teats
+this is a teat
+this is a test git status
